@@ -1,6 +1,5 @@
 .container {
     display: grid;
-    background-color: #F5F5F5;
     grid-auto-rows: minmax(0, 1fr);
 }
 
